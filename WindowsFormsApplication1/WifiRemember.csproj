@@ -7,7 +7,7 @@
     <ProjectGuid>{8E16C9A8-9BA6-4E20-A3E0-E16860B834DA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <RootNamespace>WifiRemember</RootNamespace>
     <AssemblyName>Wifi Remember</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

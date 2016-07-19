@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsFormsApplication1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WifiRemember")]
+[assembly: AssemblyDescription("when you forget wifipass")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsFormsApplication1")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyProduct("WifiRemember")]
+[assembly: AssemblyCopyright("Copyright ©  2016 by LengKeng")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
